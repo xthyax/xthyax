@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Xthyax's GitHub stats](https://github-readme-stats.vercel.app/api?username=xthyax&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xthyax&layout=compact?exclude_repo=Coursera_DS_IBM,Coursera_Capstone,xthyax&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xthyax&layout=compact&exclude_repo=Coursera_DS_IBM,Coursera_Capstone,xthyax&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Xthyax's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xthyax&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
